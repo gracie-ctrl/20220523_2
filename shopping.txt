@@ -4,3 +4,6 @@ Grocery shopping list
 3. beetroot
 4. chocolate
 5. tomato
+6. Brinjal
+7. Egg
+8. Banana
